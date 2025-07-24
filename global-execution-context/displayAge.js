@@ -10,5 +10,5 @@ function changeAge() {
 }
 
 displayAge();
-displayAge();
+changeAge();
 displayAge();
